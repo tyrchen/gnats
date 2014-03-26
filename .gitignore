@@ -1,0 +1,14 @@
+*.log
+*.pot
+*.pyc
+local_settings.py
+*.db
+
+.idea
+build
+*egg-info
+setup.py
+jk*.json
+password*
+pw.py
+node_modules
